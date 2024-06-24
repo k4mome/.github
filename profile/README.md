@@ -7,5 +7,5 @@ A identity created by Isaac ["H3rmel"](https://github.com/h3rmel) Reginato to de
 ### Projects 🛠️
 
 - [FrontFlow](https://github.com/k4mome/front-flow)
-- [Isa Arch](https://github/com/k4mome/isa-arch)
+- [ISA Arch](https://github/com/k4mome/isa-arch)
 - [NextJS LP](https://github.com/k4mome/next-lp-template) - Template
